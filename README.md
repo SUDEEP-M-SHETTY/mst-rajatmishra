@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭DEVELOPER<br>🌱learning<br>💬 Ask me about - HTML, CSS, JAVASCRIPT, BOOTSTRAP, TAILWIND CSS, MS AZURE.<br>⚡ Fun fact -can't develop feelings in anyone's Heart🙂
+🔭DEVELOPER<br>🌱learning<br>💬 Ask me about - Nothing.<br>⚡ Fun fact -can't develop feelings in anyone's Heart🙂
 
 
 ## 🌐 Socials:
