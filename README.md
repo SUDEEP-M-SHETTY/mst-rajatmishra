@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭DEVELOPER<br>🌱learning<br>💬 Ask me about - Nothing.<br>⚡ Fun fact -can't develop feelings in anyone's Heart🙂
+🔭FULL STACK, APPLICATION, SOFTWARE DEVELOPER<br>🌱LEARNING<br>💬 ASK ME ABOUT - NOTHING.<br>⚡ FUN FACT - CAN'T DEVELOP FEELINGS IN ANYONE HEART🙂
 
 
 ## 🌐 Socials:
