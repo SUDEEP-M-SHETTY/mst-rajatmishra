@@ -15,7 +15,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mst-rajatmishra&" alt="Rajat-Mishra" /></p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mst-rajatmishra'&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mst-rajatmishra" alt="Rajat-Mishra" /></a> </p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mst-rajatmishra'&icon=0&color=0)](https://visitcount.itsvg.in)
