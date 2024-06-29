@@ -15,7 +15,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mst-rajatmishra&" alt="Rajat-Mishra" /></p>
 
-![](https://raw.githubusercontent.com/mst-rajatmishra/mst-rajatmishra/output/github-contribution-grid-snake.svg)
+<!--## 🐍 Github Contributions
+![](https://raw.githubusercontent.com/mst-rajatmishra/mst-rajatmishra/output/github-contribution-grid-snake.svg)-->
 
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mst-rajatmishra" alt="Rajat-Mishra" /></a> </p>
